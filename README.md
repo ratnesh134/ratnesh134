@@ -1,31 +1,25 @@
-### Hi there, I'm Ratnesh Kumar! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ratnesh134.ratnesh134" />
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,ai)
+# Hi there, I'm Ratnesh! 👋
 
-🚀 **Data Scientist | Machine Learning Enthusiast | AI Researcher**
+Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine Learning Enthusiast** with a strong foundation in **Python**, **Machine Learning**, **AI**, and **Big Data Analytics**. I enjoy working on projects that solve real-world problems using data-driven solutions. I'm always looking for opportunities to learn and collaborate on exciting and impactful projects.
 
-📍 Bengaluru, India | 📧 [ratnesh134@gmail.com](mailto:ratnesh134@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ratnesh-kumar-10b60587/) | [GitHub](https://github.com/ratnesh134) | [Kaggle](https://www.kaggle.com/ratneshkumar07) | [HackerRank](https://www.hackerrank.com/profile/ratnesh134)
+## 🚀 About Me
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ratnesh134&color=blue)
+- 🔭 I’m currently working on **Deep Learning Project**.
+- 🌱 I’m constantly learning new technologies and exploring emerging fields in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
+- 💬 Ask me about **Data Science**, **Machine Learning**, **Python**, **AI**, and **Big Data**!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ratnesh-kumar-10b60587/) | [Email](mailto:your-ratnesh134@gmail.com)
 
----
+## 🛠️ Technologies & Tools
 
-### 🧑‍💻 About Me
-- Recent **Data Science graduate** with expertise in **Statistical Analysis, Machine Learning, and AI**.
-- Passionate about solving real-world problems using **Python, MySQL, and AI technologies**.
-- Strong experience in **data cleaning, visualization, and predictive analytics**.
-
----
-
-### 🛠️ Skills & Technologies
-
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r) ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java) ![SQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat&logo=mysql)
-- **Machine Learning & AI**: Logistic Regression, Linear Regression, Clustering, PCA, Scikit-Learn, XGBoost, Random Forest, Decision Trees
-- **Tools & Frameworks**: TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn
-- **Cloud & Deployment**: AWS, Linux, Flask, Git, Prompt Engineering, Generative AI
-
----
+- **Languages**: Python
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
+- **Data Science**: Pandas, Numpy, Matplotlib, Seaborn
+- **Big Data**: Hadoop, Apache Spark
+- **Databases**: MySQL, MongoDB
+- **Cloud**: AWS, Azure
+- **Web Development**: Flask, Django
 
 ### 🔥 Featured Projects
 
@@ -45,24 +39,18 @@
 - Led a team to build an **NLP-based model** for classifying sensitive banking documents.
 - Used **Random Forest** algorithm achieving **75% accuracy**.
 
----
 
-### 🎓 Education
-🎓 **Post Graduate Diploma in Big Data Analytics** (Mar 2024 - Aug 2024)  
-Centre for Development of Advanced Computing, Bengaluru  
 
-🎓 **Bachelor of Technology in Mechanical Engineering** (2013 - 2017)  
-IMS Engineering College, Ghaziabad, U.P.
+## 📈 GitHub Stats
 
----
+![Ratnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnesh134&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-### 📈 GitHub Stats
-![Ratnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnesh134&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh134&layout=compact&theme=radical)
 
----
+## ✨ Let's Connect
 
-### 🐍 GitHub Contribution Snake
-![Snake animation](https://github.com/ratnesh134/ratnesh134/blob/output/github-contribution-grid-snake.svg)
+- [LinkedIn](https://www.linkedin.com/in/ratnesh134)
+- [Kaggle](https://www.kaggle.com/ratneshkumar07)
+- [Email](ratnesh134@gmail.com)
 
-🚀 *Always excited to work on new AI projects and collaborations!* Feel free to reach out. ✉️
+Thanks for visiting my profile! 😊
