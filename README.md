@@ -1,32 +1,68 @@
-<h1 align="center">Hi there 👋, I'm Ratnesh</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a passionate Data Scientist and Machine Learning Enthusiast with a strong foundation in Python, Machine Learning, AI, and Big Data Analytics. I enjoy working on projects that solve real-world problems using data-driven solutions. I'm always looking for opportunities to learn and collaborate on exciting and impactful projects.</h3>
+### Hi there, I'm Ratnesh Kumar! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratnesh134&label=Profile%20views&color=0e75b6&style=flat" alt="ratnesh134" /> </p>
+![GitHub Banner](https://source.unsplash.com/1600x400/?technology,ai)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratnesh134" alt="ratnesh134" /></a> </p>
+🚀 **Data Scientist | Machine Learning Enthusiast | AI Researcher**
 
-- 🔭 I’m currently working on **Deep Learning Projects**
+📍 Bengaluru, India | 📧 [ratnesh134@gmail.com](mailto:ratnesh134@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ratnesh-kumar-10b60587/) | [GitHub](https://github.com/ratnesh134) | [Kaggle](https://www.kaggle.com/ratneshkumar07) | [HackerRank](https://www.hackerrank.com/profile/ratnesh134)
 
-- 🌱 I’m currently learning **Pytorch**
+![Visitor Count](https://komarev.com/ghpvc/?username=ratnesh134&color=blue)
 
-- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
+---
 
-- 💬 Ask me about **Data Science, Machine Learning, Python, AI, and Big Data!**
+### 🧑‍💻 About Me
+- Recent **Data Science graduate** with expertise in **Statistical Analysis, Machine Learning, and AI**.
+- Passionate about solving real-world problems using **Python, MySQL, and AI technologies**.
+- Strong experience in **data cleaning, visualization, and predictive analytics**.
 
-- 📫 How to reach me **ratnesh134@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ratnesh-kumar-10b60587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ratnesh-kumar-10b60587" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ratneshkumar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ratneshkumar07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ratnesh134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ratnesh134" height="30" width="40" /></a>
-</p>
+### 🛠️ Skills & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r) ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java) ![SQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat&logo=mysql)
+- **Machine Learning & AI**: Logistic Regression, Linear Regression, Clustering, PCA, Scikit-Learn, XGBoost, Random Forest, Decision Trees
+- **Tools & Frameworks**: TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn
+- **Cloud & Deployment**: AWS, Linux, Flask, Git, Prompt Engineering, Generative AI
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratnesh134&show_icons=true&locale=en&layout=compact" alt="ratnesh134" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratnesh134&show_icons=true&locale=en" alt="ratnesh134" /></p>
+### 🔥 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnesh134&" alt="ratnesh134" /></p>
+#### 📨 [Cold Email Generator](https://github.com/ratnesh134/ColdEmailGenerator)
+- Developed a cutting-edge **LLM and Gen AI** project leveraging **Llama 3.1, ChromaDB, LangChain, and Streamlit**.
+- Extracts job listings from a careers page and generates **personalized cold emails** tailored to the roles.
+
+#### 📚 [LlamaPDFBot](https://github.com/ratnesh134/LlamaPDFBot)
+- Built a **Streamlit-based chatbot** using **LLAMA 3.1 and FAISS** for **document-based Q&A**.
+- Implemented **PDF processing pipeline** and **RAG system** for context-aware responses.
+
+#### 🤖 [Nano-GPT](https://github.com/ratnesh134/Nano-GPT)
+- Developed a **Generative Pre-trained Transformer (GPT)** using **Python and PyTorch**.
+- Implemented **self-attention, positional encoding**, and **text generation** on the **Tiny Shakespeare dataset**.
+
+#### 🔐 [ML-Based Sensitive Document Detection](https://github.com/ratnesh134/DBDA-Project)
+- Led a team to build an **NLP-based model** for classifying sensitive banking documents.
+- Used **Random Forest** algorithm achieving **75% accuracy**.
+
+---
+
+### 🎓 Education
+🎓 **Post Graduate Diploma in Big Data Analytics** (Mar 2024 - Aug 2024)  
+Centre for Development of Advanced Computing, Bengaluru  
+
+🎓 **Bachelor of Technology in Mechanical Engineering** (2013 - 2017)  
+IMS Engineering College, Ghaziabad, U.P.
+
+---
+
+### 📈 GitHub Stats
+![Ratnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnesh134&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh134&layout=compact&theme=radical)
+
+---
+
+### 🐍 GitHub Contribution Snake
+![Snake animation](https://github.com/ratnesh134/ratnesh134/blob/output/github-contribution-grid-snake.svg)
+
+🚀 *Always excited to work on new AI projects and collaborations!* Feel free to reach out. ✉️
