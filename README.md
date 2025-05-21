@@ -2,11 +2,11 @@
 
 # Hi there, I'm Ratnesh! 👋
 
-Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine Learning Enthusiast** with a strong foundation in **Python**, **Machine Learning**, **AI**, and **Big Data Analytics**. I enjoy working on projects that solve real-world problems using data-driven solutions. I'm always looking for opportunities to learn and collaborate on exciting and impactful projects.
+Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine Learning Enthusiast** with a strong foundation in **Python**, **Machine Learning**, **AI**, and **Big Data Analytics**. I enjoy working on projects that solve real-world problems using data-driven solutions. I'm always looking for opportunities to learn and collaborate on exciting and impactful projects. I am currently a **Data Science and Machine Learning Intern** at **Street Surge**.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Deep Learning Project**.
+- 🔭 I’m currently working on **Deep Learning Project** and  **Generative AI Projects**
 - 🌱 I’m constantly learning new technologies and exploring emerging fields in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
 - 💬 Ask me about **Data Science**, **Machine Learning**, **Python**, **AI**, and **Big Data**!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ratnesh-kumar-10b60587/) | [Email](mailto:your-ratnesh134@gmail.com)
@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine
 - **Data Science**: Pandas, Numpy, Matplotlib, Seaborn
 - **Big Data**: Hadoop, Apache Spark
 - **Databases**: MySQL, MongoDB
-- **Cloud**: AWS, Azure
-- **Web Development**: Flask, Django
+- **Cloud**: AWS, GCP
+- **Web Development**: Flask, FastAPI
 
 ### 🔥 Featured Projects
 
