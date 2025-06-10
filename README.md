@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Deep Learning Project** and  **Generative AI Projects**
-- 🌱 I’m constantly learning new technologies and exploring emerging fields in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
+- 🌱 I’m constantly learning new technologies and exploring emerging fields in **Machine Learning**, **Deep Learning**,**Natural Language Processing** and  **Generative AI** .
 - 💬 Ask me about **Data Science**, **Machine Learning**, **Python**, **AI**, and **Big Data**!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ratnesh-kumar-10b60587/) | [Email](mailto:your-ratnesh134@gmail.com)
 
