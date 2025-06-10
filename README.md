@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine
 ### 🔥 Featured Projects
 
 #### 📨 [Cold Email Generator](https://github.com/ratnesh134/ColdEmailGenerator)
-- Developed a cutting-edge **LLM and Gen AI** project leveraging **Llama 3.1, ChromaDB, LangChain, and Streamlit**.
+- Developed a **LLM and Gen AI** based project leveraging **Llama 3.1, ChromaDB, LangChain, and Streamlit**.
 - Extracts job listings from a careers page and generates **personalized cold emails** tailored to the roles.
 
 #### 📚 [LlamaPDFBot](https://github.com/ratnesh134/LlamaPDFBot)
