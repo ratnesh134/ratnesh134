@@ -2,7 +2,8 @@
 
 # Hi there, I'm Ratnesh! 👋
 
-Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine Learning Enthusiast** with a strong foundation in **Python**, **Machine Learning**, **AI**, and **Big Data Analytics**. I enjoy working on projects that solve real-world problems using data-driven solutions. I'm always looking for opportunities to learn and collaborate on exciting and impactful projects. I am currently a **Data Science and Machine Learning Intern** at **Street Surge**.
+Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine Learning Enthusiast** with a strong foundation in **Python**, **Machine Learning**, **AI**, and **Big Data Analytics**. I enjoy working on projects that solve real-world problems using data-driven solutions. I'm always looking for opportunities to learn and collaborate on exciting and impactful projects.  
+**Ex - Data Science and Machine Learning  Intern** at **Street Surge**.
 
 ## 🚀 About Me
 
@@ -14,10 +15,10 @@ Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
+- **Machine Learning**: Scikit-learn, Keras, PyTorch
 - **Data Science**: Pandas, Numpy, Matplotlib, Seaborn
 - **Big Data**: Hadoop, Apache Spark
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL, MongoDB , PostgreSQL
 - **Cloud**: AWS, GCP
 - **Web Development**: Flask, FastAPI
 
