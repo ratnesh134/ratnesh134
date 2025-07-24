@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine
 - Developed a **Generative Pre-trained Transformer (GPT)** using **Python and PyTorch**.
 - Implemented **self-attention, positional encoding**, and **text generation** on the **Tiny Shakespeare dataset**.
 
-#### 🔐 [ML-Based Sensitive Document Detection](https://github.com/ratnesh134/DBDA-Project)
+#### 🔐 [ML-Based Sensitive Document Detection](https://github.com/ratnesh134/DBDA-Project) - Post Graduate Diploma Project
 - Led a team to build an **NLP-based model** for classifying sensitive banking documents.
 - Used **Random Forest** algorithm achieving **75% accuracy**.
 
