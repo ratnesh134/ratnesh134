@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python
-- **Machine Learning**: Scikit-learn, Keras, PyTorch
+- **Machine Learning**: Scikit-learn, Keras, PyTorch, Keras
 - **Data Science**: Pandas, Numpy, Matplotlib, Seaborn
 - **Big Data**: Hadoop, Spark
 - **Databases**: MySQL , PostgreSQL
