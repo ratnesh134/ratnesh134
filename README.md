@@ -3,8 +3,7 @@
 # Hi there, I'm Ratnesh! 👋
 
 Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine Learning Enthusiast** with a strong foundation in **Python**, **Machine Learning**, **AI**, and **Big Data Analytics**. I enjoy working on projects that solve real-world problems using data-driven solutions. I'm always looking for opportunities to learn and collaborate on exciting and impactful projects.  
-**Ex - Data Science and Machine Learning  Intern**. Currently working as a **Software Engineer** !!
-
+**Ex - Data Science and Machine Learning  Intern**. 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Deep Learning Project** and  **Generative AI Projects**
