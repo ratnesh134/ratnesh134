@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ratnesh134.ratnesh134" />
 
-# Hello there, I'm Ratnesh! 👋
+# Hello there, I'm Ratnesh. 👋
 
 Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine Learning Enthusiast** with a strong foundation in **Python**, **Machine Learning**, **AI**, and **Big Data Analytics**. I enjoy working on projects that solve real-world problems using data-driven solutions. I'm always looking for opportunities to learn and collaborate on exciting and impactful projects.  
 **Ex - Data Science and Machine Learning  Intern**. 
@@ -23,9 +23,7 @@ Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine
 
 ### 🔥 Featured Projects
 
-#### 📨 [Cold Email Generator](https://github.com/ratnesh134/ColdEmailGenerator)
-- Developed a **LLM and Gen AI** based project leveraging **Llama 3.1, ChromaDB, LangChain, and Streamlit**.
-- Extracts job listings from a careers page and generates **personalized cold emails** tailored to the roles.
+
 
 #### 📚 [LlamaPDFBot](https://github.com/ratnesh134/LlamaPDFBot)
 - Built a **Streamlit-based chatbot** using **LLAMA 3.1 and FAISS** for **document-based Q&A**.
