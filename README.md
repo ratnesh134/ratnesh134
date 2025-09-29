@@ -18,7 +18,7 @@ Currently working as a  **Software Engineer (AI/ML)** .
 - **Data Science**: Pandas, Numpy, Matplotlib, Seaborn
 - **Big Data**: Hadoop, Spark
 - **Databases**: MySQL , PostgreSQL
-- **Cloud**: AWS, GCP
+- **Cloud**: AWS, GCP, Azure
 - **Web Development**: Flask, FastAPI
 
 ### 🔥 Featured Projects
