@@ -13,7 +13,7 @@ Currently working as a  **Software Engineer (AI/ML)** .
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python , Java
+- **Languages**: Python .
 - **Machine Learning**: Scikit-learn, Keras, PyTorch, Keras
 - **Data Science**: Pandas, Numpy, Matplotlib, Seaborn
 - **Big Data**: Hadoop, Spark
