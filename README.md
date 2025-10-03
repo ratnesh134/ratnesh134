@@ -51,4 +51,4 @@ Currently working as a  **Software Engineer (AI/ML)** .
 - [Kaggle](https://www.kaggle.com/ratneshkumar07)
 - [Email](ratnesh134@gmail.com)
 
-Thanks for visiting my profile! 😊
+Thanks, for visiting my profile! 😊
