@@ -19,7 +19,7 @@ Currently working as a  **Software Engineer (AI/ML)** .
 - **Big Data**: Hadoop, Spark
 - **Databases**: MySQL , PostgreSQL
 - **Cloud**: AWS, GCP, Azure
-- **Web Development**: Flask, FastAPI, Docker.
+- **Web Development**: Flask, FastAPI, Docker
 
 ### 🔥 Featured Projects
 
