@@ -45,7 +45,7 @@ Currently working as a  **Software Engineer (AI/ML)** .
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh134&layout=compact&theme=radical)
 
-## ✨ Let's Connect
+## ✨ Let's Connect.
 
 - [LinkedIn](https://www.linkedin.com/in/ratnesh134)
 - [Kaggle](https://www.kaggle.com/ratneshkumar07)
