@@ -20,7 +20,7 @@ Currently working as a  **Software Engineer (AI/ML)** .
 - **Databases**: MySQL , PostgreSQL.
 - **Cloud**: AWS, GCP, Azure.
 - **Web Development**: Flask, FastAPI, Docker
-- **Tools** : Git, Github, Gitlab
+- **Tools** : Git, Github, Gitlab .
 
 ### 🔥 Featured Projects
 
