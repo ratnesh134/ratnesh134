@@ -13,7 +13,7 @@ I enjoy working at the intersection of software engineering and applied ML — w
 
 - 🔭 I’m currently working on **Deep Learning Project** and  **Generative AI Projects** especially RAG Chatbots.
 - 🌱 I’m constantly learning new technologies and exploring emerging fields in **Machine Learning**, **Deep Learning**,**Natural Language Processing** and  **Generative AI** .
-- 💬 Ask me about **Data Science**, **Machine Learning**, **Python**, **AI**, and **Big Data**!
+- 💬 Ask me about **Data Science**, **Machine Learning**, **Python** and **AI** .
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ratnesh-kumar-10b60587/) | [Email](mailto:your-ratnesh134@gmail.com)
 
 ## 🛠️ Technologies & Tools
