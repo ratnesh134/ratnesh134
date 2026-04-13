@@ -19,7 +19,8 @@ I enjoy working at the intersection of software engineering and applied ML — w
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python .
-- **Machine Learning**: Scikit-learn, Keras, PyTorch, Keras
+- **Machine Learning Frameworks**: Scikit-learn, Keras, PyTorch
+- **Machine Learning Algorithm**: DBSCAN, Decsion Tree, Random Forest, Clustering Algorithms, PCA, Bagging and Boosting Algoirthms
 - **Data Science**: Pandas, Numpy, Matplotlib, Seaborn
 - **Big Data**: Hadoop, Spark
 - **Databases**: MySQL , PostgreSQL.
