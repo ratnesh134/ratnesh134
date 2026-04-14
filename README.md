@@ -5,7 +5,7 @@
 Welcome to my GitHub!
 I’m a **Software Engineer (AI/ML)** with a strong passion for building intelligent, scalable systems that bring machine learning into real-world production. With a solid foundation in Python, Machine Learning, Artificial Intelligence, and Big Data Analytics, I focus on designing robust data pipelines, training high-performance models, and deploying end-to-end AI solutions.
 
-I enjoy working at the intersection of software engineering and applied ML — writing clean, efficient code, building APIs and services around models, and solving complex engineering problems with data-driven approaches. Always learning, always experimenting, and always excited to collaborate on impactful AI-powered projects.
+I enjoy working at the intersection of software engineering and applied ML — writing clean, efficient code, building APIs and services around models, and solving complex engineering problems with data-driven approaches. Always learning, and experimenting, and always excited to collaborate on impactful AI-powered projects.
 
 
 
